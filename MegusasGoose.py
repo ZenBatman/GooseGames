@@ -8,5 +8,3 @@ elif GooseName.lower() == 'ganzo':
     print('NO')
 else:
     print('Who are you talking to?')
-
-# Test change
