@@ -1,0 +1,9 @@
+input('Should I ask Puta Libre, Ganzo or Mark about talking to the knife wielding goose?').lower()
+if input() = 'Mark':
+            print('HONK.')
+       elif input() = 'Puta Libre':
+            print('YES.')
+        elif input() = 'Ganzo':
+            print('NO.')
+        else:
+            print('Who are you talking to?')

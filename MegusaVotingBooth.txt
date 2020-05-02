@@ -1,0 +1,6 @@
+#Megusa's voting booth will automate the collecting of votes in regards to keeping large creatures as pets, which is a totally fine and acceptable practice
+and we totally shouldn't even be here, but the amount of beaurecratic bullshit is mind blowing.
+
+print: "What is your name, supportive citizen?!"
+name=input
+print: "Thanks " + name + " for your support!"
